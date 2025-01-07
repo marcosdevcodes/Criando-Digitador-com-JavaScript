@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #000001;
+}
+.container{
+    display: flex;
+    font-size: 2em;
+    color: #fff;
+    letter-spacing: 0.2em;
+    width: 100%;
+    padding: 50px;
+}
+.cursor{
+    display: inline-block;
+    margin-left: 2px;
+    color: #fff;
+    animation: blink 0.6s step-end infinite;
+}
+@keyframes blink{
+    50%{
+        opacity: 0;
+    }
+}
