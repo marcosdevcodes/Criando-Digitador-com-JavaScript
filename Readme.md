@@ -1,3 +1,10 @@
+
+
+https://github.com/user-attachments/assets/08d70034-f0ca-40b4-b143-ddbdd567e40d
+
+
+
+
 # Esse código JavaScript implementa uma animação de digitação e exclusão de texto, simulando o comportamento de um "texto digitado". Vamos analisar cada parte do código em detalhes.
 
 ### 1. Declaração de variáveis principais
